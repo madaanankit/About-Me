@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit.
-- 👀 I’m interested in new technology.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on mobile application projects.
+- 👀 I’m interested in developing new applications.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ankit.ankit716@gmail.com.
 
 <!---
